@@ -6,13 +6,13 @@ A simple web app to calculate compound interest written in vanilla JavaScript, H
 
 The web app is deployed on Azure Static Web Apps and can be viewed [here](https://nice-grass-0c532b010.6.azurestaticapps.net/)!
 
-To run as a container:
+##### *To run as a container*:
 
 - Open Docker 
 - Run the build command:
 
 ```
-docker run -d -p 8080:80 calculator
+docker run -d -p 8080:80 rzkw/calculator
 ```
 
 ##### *To use the calculator:*
