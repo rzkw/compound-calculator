@@ -38,6 +38,7 @@ If you'd like to contribute:
 ##### *Changelog:*
 
 0.1.0 Initial release
+0.1.1 Containerised app 20/11/2025
 
 ##### *Links and Resources:*
 
