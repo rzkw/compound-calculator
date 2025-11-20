@@ -42,6 +42,7 @@ If you'd like to contribute:
 
 ##### *Links and Resources:*
 
+- [Reference code: compound calculator from jamezmca](https://github.com/jamezmca/compound-calc)
 - [Docker for Web Developers: Getting Started with the Basics](https://www.docker.com/blog/docker-for-web-developers/)
 - [Building best practices](https://docs.docker.com/build/building/best-practices/#choose-the-right-base-image)
 - [Octopus Deploy: Using the NGINX Docker image](https://octopus.com/blog/using-nginx-docker-image)
